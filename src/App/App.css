@@ -1,0 +1,33 @@
+html, body {
+    padding:0;
+    margin: 0;
+    height: 100%;
+}
+
+.switch {
+    position: relative;
+    width: 100vw;
+    height: 56.25vw;
+}
+
+.switch img {
+    width: 100%;
+    height: 100%;
+}
+.joyconL,
+.joyconR {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.controls {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.controls .left,
+.controls .right {
+    display: flex;
+    flex-direction: column;
+}
