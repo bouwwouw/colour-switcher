@@ -2,7 +2,7 @@
   "name": "colour-switcher",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bouwwouw.github.io/colour-switcher",
+  "homepage": "https://evertbouw.github.io/colour-switcher",
   "devDependencies": {
     "gh-pages": "^0.12.0",
     "react-scripts": "0.9.0"
